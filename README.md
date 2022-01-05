@@ -1,6 +1,5 @@
 - 👋 Hi, I’m Anchal Yadav
 - 👀 I’m interested in Data Structures and Algorithms, Competitive Coding and Java Application Development
-- 🌱 I’m currently learning AR-VR Technology 
 
 
 <!---
